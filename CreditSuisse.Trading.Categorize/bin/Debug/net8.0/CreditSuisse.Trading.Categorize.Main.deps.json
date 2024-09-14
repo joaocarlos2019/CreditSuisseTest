@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "CreditSuisse.Trading.Categorize.Main/1.0.0": {
+        "dependencies": {
+          "CreditSuisse.Trading.Categorize.Domain": "1.0.0"
+        },
+        "runtime": {
+          "CreditSuisse.Trading.Categorize.Main.dll": {}
+        }
+      },
+      "CreditSuisse.Trading.Categorize.Domain/1.0.0": {
+        "runtime": {
+          "CreditSuisse.Trading.Categorize.Domain.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CreditSuisse.Trading.Categorize.Main/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CreditSuisse.Trading.Categorize.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\JOAO\\source\\repos\\CreditSuisse.Trading.Categorize\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{30C0523C-2489-4239-9BC2-5C1A67BCF92A}|CreditSuisse.Trading.Categorize\\CreditSuisse.Trading.Categorize.Main.csproj|c:\\users\\joao\\source\\repos\\creditsuisse.trading.categorize\\creditsuisse.trading.categorize\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30C0523C-2489-4239-9BC2-5C1A67BCF92A}|CreditSuisse.Trading.Categorize\\CreditSuisse.Trading.Categorize.Main.csproj|solutionrelative:creditsuisse.trading.categorize\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30C0523C-2489-4239-9BC2-5C1A67BCF92A}|CreditSuisse.Trading.Categorize\\CreditSuisse.Trading.Categorize.Main.csproj|c:\\users\\joao\\source\\repos\\creditsuisse.trading.categorize\\creditsuisse.trading.categorize\\processingcategorywithpep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30C0523C-2489-4239-9BC2-5C1A67BCF92A}|CreditSuisse.Trading.Categorize\\CreditSuisse.Trading.Categorize.Main.csproj|solutionrelative:creditsuisse.trading.categorize\\processingcategorywithpep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30C0523C-2489-4239-9BC2-5C1A67BCF92A}|CreditSuisse.Trading.Categorize\\CreditSuisse.Trading.Categorize.Main.csproj|c:\\users\\joao\\source\\repos\\creditsuisse.trading.categorize\\creditsuisse.trading.categorize\\processingcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30C0523C-2489-4239-9BC2-5C1A67BCF92A}|CreditSuisse.Trading.Categorize\\CreditSuisse.Trading.Categorize.Main.csproj|solutionrelative:creditsuisse.trading.categorize\\processingcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30C0523C-2489-4239-9BC2-5C1A67BCF92A}|CreditSuisse.Trading.Categorize\\CreditSuisse.Trading.Categorize.Main.csproj|c:\\users\\joao\\source\\repos\\creditsuisse.trading.categorize\\creditsuisse.trading.categorize\\mainprocessing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30C0523C-2489-4239-9BC2-5C1A67BCF92A}|CreditSuisse.Trading.Categorize\\CreditSuisse.Trading.Categorize.Main.csproj|solutionrelative:creditsuisse.trading.categorize\\mainprocessing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2E9A4A8-921C-4F83-B6FB-72CEB0E9A331}|CreditSuisse.Trading.Categorize.Domain\\CreditSuisse.Trading.Categorize.Domain.csproj|c:\\users\\joao\\source\\repos\\creditsuisse.trading.categorize\\creditsuisse.trading.categorize.domain\\interfaces\\itradeportfolio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2E9A4A8-921C-4F83-B6FB-72CEB0E9A331}|CreditSuisse.Trading.Categorize.Domain\\CreditSuisse.Trading.Categorize.Domain.csproj|solutionrelative:creditsuisse.trading.categorize.domain\\interfaces\\itradeportfolio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProcessingCategoryWithPep.cs",
+              "DocumentMoniker": "C:\\Users\\JOAO\\source\\repos\\CreditSuisse.Trading.Categorize\\CreditSuisse.Trading.Categorize\\ProcessingCategoryWithPep.cs",
+              "RelativeDocumentMoniker": "CreditSuisse.Trading.Categorize\\ProcessingCategoryWithPep.cs",
+              "ToolTip": "C:\\Users\\JOAO\\source\\repos\\CreditSuisse.Trading.Categorize\\CreditSuisse.Trading.Categorize\\ProcessingCategoryWithPep.cs",
+              "RelativeToolTip": "CreditSuisse.Trading.Categorize\\ProcessingCategoryWithPep.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T17:34:27.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ITradePortfolio.cs",
+              "DocumentMoniker": "C:\\Users\\JOAO\\source\\repos\\CreditSuisse.Trading.Categorize\\CreditSuisse.Trading.Categorize.Domain\\Interfaces\\ITradePortfolio.cs",
+              "RelativeDocumentMoniker": "CreditSuisse.Trading.Categorize.Domain\\Interfaces\\ITradePortfolio.cs",
+              "ToolTip": "C:\\Users\\JOAO\\source\\repos\\CreditSuisse.Trading.Categorize\\CreditSuisse.Trading.Categorize.Domain\\Interfaces\\ITradePortfolio.cs",
+              "RelativeToolTip": "CreditSuisse.Trading.Categorize.Domain\\Interfaces\\ITradePortfolio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T00:57:14.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainProcessing.cs",
+              "DocumentMoniker": "C:\\Users\\JOAO\\source\\repos\\CreditSuisse.Trading.Categorize\\CreditSuisse.Trading.Categorize\\MainProcessing.cs",
+              "RelativeDocumentMoniker": "CreditSuisse.Trading.Categorize\\MainProcessing.cs",
+              "ToolTip": "C:\\Users\\JOAO\\source\\repos\\CreditSuisse.Trading.Categorize\\CreditSuisse.Trading.Categorize\\MainProcessing.cs",
+              "RelativeToolTip": "CreditSuisse.Trading.Categorize\\MainProcessing.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T00:33:42.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProcessingCategory.cs",
+              "DocumentMoniker": "C:\\Users\\JOAO\\source\\repos\\CreditSuisse.Trading.Categorize\\CreditSuisse.Trading.Categorize\\ProcessingCategory.cs",
+              "RelativeDocumentMoniker": "CreditSuisse.Trading.Categorize\\ProcessingCategory.cs",
+              "ToolTip": "C:\\Users\\JOAO\\source\\repos\\CreditSuisse.Trading.Categorize\\CreditSuisse.Trading.Categorize\\ProcessingCategory.cs",
+              "RelativeToolTip": "CreditSuisse.Trading.Categorize\\ProcessingCategory.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAACYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T21:46:00.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\JOAO\\source\\repos\\CreditSuisse.Trading.Categorize\\CreditSuisse.Trading.Categorize\\Program.cs",
+              "RelativeDocumentMoniker": "CreditSuisse.Trading.Categorize\\Program.cs",
+              "ToolTip": "C:\\Users\\JOAO\\source\\repos\\CreditSuisse.Trading.Categorize\\CreditSuisse.Trading.Categorize\\Program.cs",
+              "RelativeToolTip": "CreditSuisse.Trading.Categorize\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T17:04:16.856Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
