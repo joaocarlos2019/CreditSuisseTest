@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CreditSuisse.Trading.Categorize.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0a050c1c3ad19ed224c1d7fcd65fdbbc985d7036")]
 [assembly: System.Reflection.AssemblyProductAttribute("CreditSuisse.Trading.Categorize.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CreditSuisse.Trading.Categorize.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

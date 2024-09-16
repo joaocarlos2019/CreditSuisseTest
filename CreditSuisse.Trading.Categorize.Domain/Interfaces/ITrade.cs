@@ -16,6 +16,13 @@ namespace CreditSuisse.Trading.Categorize.Domain.Interfaces
 
         public bool IsPoliticallyExposed { get; set; }
 
+        public bool isExpired();
+
+        public bool isHighRisk();
+
+        public bool isMediumRisk();
+       
+
 
 
 

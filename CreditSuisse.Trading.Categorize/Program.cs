@@ -24,3 +24,9 @@ var processPrincipal = new MainProcessing(processingCategory);
 processPrincipal.DoCategorize(tradePortFolio);
 
 //Executando Processamento Questao 2
+
+IProcessingCategory processingCategoryWithPep = new ProcessingCategoryWithPep();
+
+var processPrincipalWithPep = new MainProcessing(processingCategoryWithPep);
+
+processPrincipalWithPep.DoCategorize(tradePortFolio);

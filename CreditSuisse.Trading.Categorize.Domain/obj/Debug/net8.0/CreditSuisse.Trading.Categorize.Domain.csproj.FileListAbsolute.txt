@@ -9,3 +9,15 @@ C:\Users\JOAO\source\repos\CreditSuisse.Trading.Categorize\CreditSuisse.Trading.
 C:\Users\JOAO\source\repos\CreditSuisse.Trading.Categorize\CreditSuisse.Trading.Categorize.Domain\obj\Debug\net8.0\refint\CreditSuisse.Trading.Categorize.Domain.dll
 C:\Users\JOAO\source\repos\CreditSuisse.Trading.Categorize\CreditSuisse.Trading.Categorize.Domain\obj\Debug\net8.0\CreditSuisse.Trading.Categorize.Domain.pdb
 C:\Users\JOAO\source\repos\CreditSuisse.Trading.Categorize\CreditSuisse.Trading.Categorize.Domain\obj\Debug\net8.0\ref\CreditSuisse.Trading.Categorize.Domain.dll
+C:\Users\JOAO\Documents\GitHub\CreditSuisseTest\CreditSuisse.Trading.Categorize.Domain\bin\Debug\net8.0\CreditSuisse.Trading.Categorize.Domain.deps.json
+C:\Users\JOAO\Documents\GitHub\CreditSuisseTest\CreditSuisse.Trading.Categorize.Domain\bin\Debug\net8.0\CreditSuisse.Trading.Categorize.Domain.dll
+C:\Users\JOAO\Documents\GitHub\CreditSuisseTest\CreditSuisse.Trading.Categorize.Domain\bin\Debug\net8.0\CreditSuisse.Trading.Categorize.Domain.pdb
+C:\Users\JOAO\Documents\GitHub\CreditSuisseTest\CreditSuisse.Trading.Categorize.Domain\obj\Debug\net8.0\CreditSuisse.Trading.Categorize.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JOAO\Documents\GitHub\CreditSuisseTest\CreditSuisse.Trading.Categorize.Domain\obj\Debug\net8.0\CreditSuisse.Trading.Categorize.Domain.AssemblyInfoInputs.cache
+C:\Users\JOAO\Documents\GitHub\CreditSuisseTest\CreditSuisse.Trading.Categorize.Domain\obj\Debug\net8.0\CreditSuisse.Trading.Categorize.Domain.AssemblyInfo.cs
+C:\Users\JOAO\Documents\GitHub\CreditSuisseTest\CreditSuisse.Trading.Categorize.Domain\obj\Debug\net8.0\CreditSuisse.Trading.Categorize.Domain.csproj.CoreCompileInputs.cache
+C:\Users\JOAO\Documents\GitHub\CreditSuisseTest\CreditSuisse.Trading.Categorize.Domain\obj\Debug\net8.0\CreditSuisse.Trading.Categorize.Domain.sourcelink.json
+C:\Users\JOAO\Documents\GitHub\CreditSuisseTest\CreditSuisse.Trading.Categorize.Domain\obj\Debug\net8.0\CreditSuisse.Trading.Categorize.Domain.dll
+C:\Users\JOAO\Documents\GitHub\CreditSuisseTest\CreditSuisse.Trading.Categorize.Domain\obj\Debug\net8.0\refint\CreditSuisse.Trading.Categorize.Domain.dll
+C:\Users\JOAO\Documents\GitHub\CreditSuisseTest\CreditSuisse.Trading.Categorize.Domain\obj\Debug\net8.0\CreditSuisse.Trading.Categorize.Domain.pdb
+C:\Users\JOAO\Documents\GitHub\CreditSuisseTest\CreditSuisse.Trading.Categorize.Domain\obj\Debug\net8.0\ref\CreditSuisse.Trading.Categorize.Domain.dll

@@ -13,29 +13,15 @@ namespace CreditSuisse.Trading.Categorize.Main
             foreach(var trade in tradeSended.Trades)
             {
 
-                if (isExpired(trade))
+                if (trade.isExpired())
                     Console.WriteLine("EXPIRED");
-                else if (isHighRisk(trade))
+                else if (trade.isHighRisk())
                     Console.WriteLine("HIGHRISK");
-                else if (isMediumRisk(trade))
+                else if (trade.isMediumRisk())
                     Console.WriteLine("MEDIUMRISK");
             }
         }
 
-        private bool isExpired(ITrade trade)
-        {
-            return trade.NextPaymentDate.Date < DateTime.Now.AddDays(30);
-        }
-
-        private bool isHighRisk(ITrade trade)
-        {
-            return trade.Value > 1000000 && trade.ClientSector.Equals("Private");
-        }
-
-        private bool isMediumRisk(ITrade trade)
-        {
-            return trade.Value > 1000000 && trade.ClientSector.Equals("Public");
-
-        }
+        
     }
 }

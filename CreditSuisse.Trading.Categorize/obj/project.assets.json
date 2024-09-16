@@ -34,11 +34,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\JOAO\\source\\repos\\CreditSuisse.Trading.Categorize\\CreditSuisse.Trading.Categorize\\CreditSuisse.Trading.Categorize.Main.csproj",
+      "projectUniqueName": "C:\\Users\\JOAO\\Documents\\GitHub\\CreditSuisseTest\\CreditSuisse.Trading.Categorize\\CreditSuisse.Trading.Categorize.Main.csproj",
       "projectName": "CreditSuisse.Trading.Categorize.Main",
-      "projectPath": "C:\\Users\\JOAO\\source\\repos\\CreditSuisse.Trading.Categorize\\CreditSuisse.Trading.Categorize\\CreditSuisse.Trading.Categorize.Main.csproj",
+      "projectPath": "C:\\Users\\JOAO\\Documents\\GitHub\\CreditSuisseTest\\CreditSuisse.Trading.Categorize\\CreditSuisse.Trading.Categorize.Main.csproj",
       "packagesPath": "C:\\Users\\JOAO\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\JOAO\\source\\repos\\CreditSuisse.Trading.Categorize\\CreditSuisse.Trading.Categorize\\obj\\",
+      "outputPath": "C:\\Users\\JOAO\\Documents\\GitHub\\CreditSuisseTest\\CreditSuisse.Trading.Categorize\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -62,8 +62,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\JOAO\\source\\repos\\CreditSuisse.Trading.Categorize\\CreditSuisse.Trading.Categorize.Domain\\CreditSuisse.Trading.Categorize.Domain.csproj": {
-              "projectPath": "C:\\Users\\JOAO\\source\\repos\\CreditSuisse.Trading.Categorize\\CreditSuisse.Trading.Categorize.Domain\\CreditSuisse.Trading.Categorize.Domain.csproj"
+            "C:\\Users\\JOAO\\Documents\\GitHub\\CreditSuisseTest\\CreditSuisse.Trading.Categorize.Domain\\CreditSuisse.Trading.Categorize.Domain.csproj": {
+              "projectPath": "C:\\Users\\JOAO\\Documents\\GitHub\\CreditSuisseTest\\CreditSuisse.Trading.Categorize.Domain\\CreditSuisse.Trading.Categorize.Domain.csproj"
             }
           }
         }
